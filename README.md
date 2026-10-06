@@ -13,7 +13,7 @@ Google Translate API
 Text-to-Speech (TTS)
 Telegram Bot API
 
-Project Complexity: ⭐⭐⭐⭐⭐ (Advanced)
+
 
 Key Highlights:
 Deep Learning-based image classification
